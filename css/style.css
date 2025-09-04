@@ -26,10 +26,12 @@ body {
 #top-logo {
   transition: width 0.3s ease-in-out;
   width: 16rem; /* Larger default logo size */
+  margin-top: 2rem;
 }
 
 #top-info-bar.scrolled #top-logo {
   width: 12rem; /* Adjusted smaller logo size when scrolling */
+  margin-top: 0.75rem; /* mt-3 */
 }
 
 #menu-toggle {
