@@ -1,3 +1,4 @@
+/*
 window.onload = function() {
     setTimeout(() => {
         const welcomeScreen = document.getElementById('welcome-screen');
@@ -13,4 +14,4 @@ window.onload = function() {
         }, 1300); // Zeit für den Fade-Out (2.5 Sekunden)
     }, 1200); // Wartezeit, bevor der Fade-Out beginnt (0.5 Sekunden)
 };
-
+*/
